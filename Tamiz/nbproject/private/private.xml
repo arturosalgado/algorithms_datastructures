@@ -3,11 +3,34 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/tamiz/application/controllers/log.php</file>
-            <file>file:/C:/xampp/htdocs/tamiz/application/config/database.php</file>
-            <file>file:/C:/xampp/htdocs/tamiz/index.php</file>
-            <file>file:/C:/xampp/htdocs/tamiz/application/core/MY_Controller.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/views/admin/catalogs/units/edit.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/views/admin/reports/jurisdiction.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/models/jurisdictionmodel.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/models/tamizmodel.php</file>
             <file>file:/C:/xampp/htdocs/tamiz/application/controllers/home.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/libraries/datamapper.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/views/admin/reports/state.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/controllers/log.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/config/config.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/config/database.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/core/MY_Controller.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/views/admin/catalogs/jurisdictions/edit.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/controllers/welcome.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/views/admin/layout.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/views/admin/catalogs/jurisdictions/list.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/libraries/phpsession.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/models/estadomodel.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/views/admin/catalogs/units/list.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/models/unitmodel.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/models/parentmodel.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/controllers/reports.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/controllers/catalogs.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/views/admin/login.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/index.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/views/admin/catalogs/states/edit.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/libraries/export.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/views/admin/catalogs/states/list.php</file>
+            <file>file:/C:/xampp/htdocs/tamiz/application/controllers/tamiz.php</file>
         </group>
     </open-files>
 </project-private>
